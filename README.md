@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot/screenshot.png)
+![](screenshot/127.0.0.1_8080_.png)
 
 ### Links
 
