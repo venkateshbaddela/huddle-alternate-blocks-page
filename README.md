@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://github.com/venkateshbaddela/huddle-alternate-blocks-page]
 - Live Site URL: []
 
 ### Built with
